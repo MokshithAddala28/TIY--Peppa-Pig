@@ -2,7 +2,7 @@
 
 public class Exercise3 {
     public static void main(String[] args){
-    int x =10;
+    double  x =150;
     if (x<100) {
         x = x+50;
     }
